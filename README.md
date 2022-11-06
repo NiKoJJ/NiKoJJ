@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NiKoJJ
 - 👀 I’m interested in Big Data Analysis and Map Visualization
-- 🌱 I’m currently learning Machine Learning、Java、GIS、Surveying and Mapping
+- 🌱 I’m currently learning Machine Learning、Python、GIS、InSAR and Remote sensing
 - 💞️ I’m looking to collaborate on someone who is interest in GIS and Map Cartography
 - 📫 How to contact me zoexjj216@gmail.com
 - 🧑‍🎓 Now,I'm studing for master degree at a reserch institute  in a Beijing and looking forward to discussing academic issue with you!
